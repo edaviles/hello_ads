@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T18:33:18.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1qxfvyND1nH9Np9afNXw" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T18:37:40.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jWxVrq4cIuibTV23WKp2" version="21.6.6" type="github">
   <diagram name="Page-1" id="CpIo1Z0mFZJBeZnzkhKw">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,8 +25,32 @@
         <mxCell id="af7t_kxeDES-sI4WgdZ9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-7" target="af7t_kxeDES-sI4WgdZ9-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.029;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-7" target="af7t_kxeDES-sI4WgdZ9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="af7t_kxeDES-sI4WgdZ9-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Worker_Container_App.svg;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="68" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-13" target="af7t_kxeDES-sI4WgdZ9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="343.75" width="60" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Mobile.svg;" vertex="1" parent="af7t_kxeDES-sI4WgdZ9-15">
+          <mxGeometry width="60" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png" vertex="1" parent="af7t_kxeDES-sI4WgdZ9-15">
+          <mxGeometry x="9.999999999999993" y="30.25" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-16" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="259" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-19" target="af7t_kxeDES-sI4WgdZ9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+          <mxGeometry x="679.81" y="70" width="48.38" height="64.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

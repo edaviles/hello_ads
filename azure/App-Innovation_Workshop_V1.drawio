@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T18:27:24.201Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="R7TO4RpogjV1M4pLSYAg" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-04T18:33:18.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1qxfvyND1nH9Np9afNXw" version="21.6.6" type="github">
   <diagram name="Page-1" id="CpIo1Z0mFZJBeZnzkhKw">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-3" target="af7t_kxeDES-sI4WgdZ9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="70" width="68" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.47;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.471;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-4" target="af7t_kxeDES-sI4WgdZ9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-4" target="af7t_kxeDES-sI4WgdZ9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Bot_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Application_Insights.svg;" vertex="1" parent="1">
+          <mxGeometry x="482" y="487" width="44" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="af7t_kxeDES-sI4WgdZ9-7" target="af7t_kxeDES-sI4WgdZ9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="af7t_kxeDES-sI4WgdZ9-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Worker_Container_App.svg;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="68" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
